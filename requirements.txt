@@ -1,0 +1,10 @@
+# Hybrid RAG Audio Pipeline - Requirements
+# 
+# このプロジェクトは3つの仮想環境を使用します。
+# 各環境用のrequirements.txtファイルは requirements/ フォルダにあります。
+#
+# - requirements/requirements_whisper.txt   : Whisper環境用（音声文字起こし）
+# - requirements/requirements_pyannote.txt  : Pyannote環境用（話者分離）
+# - requirements/requirements_app.txt       : Streamlitアプリ環境用
+#
+# インストール方法については requirements/README.md を参照してください。

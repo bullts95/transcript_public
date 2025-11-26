@@ -1,0 +1,5 @@
+/envs
+/temp
+__pycache__/app.cpython-312.pyc
+scripts/__pycache__/step1_transcribe.cpython-312.pyc
+scripts/__pycache__/step3_merge.cpython-312.pyc
