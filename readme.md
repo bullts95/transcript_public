@@ -101,3 +101,15 @@ PYANNOTE_PYTHON_PATH = "/path/to/your/project/envs/pyannote_env/bin/python"
       * `scripts/` フォルダ内の3つのPythonファイルは、コマンドライン引数（argparse）でファイルパスを受け取るように実装すること。
 
 この構成であれば、複雑な依存関係に悩まされることなく、GUIベースで快適に高精度な音声認識・話者分離を実行できます。
+
+### 6. License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### 7. Acknowledgements
+
+This project makes use of the following open-source projects:
+
+*   **[OpenAI Whisper](https://github.com/openai/whisper)**: Robust Speech Recognition via Large-Scale Weak Supervision. (MIT License)
+*   **[pyannote-audio](https://github.com/pyannote/pyannote-audio)**: Neural building blocks for speaker diarization. (MIT License)
+*   **[Streamlit](https://streamlit.io/)**: The fastest way to build and share data apps. (Apache 2.0 License)
